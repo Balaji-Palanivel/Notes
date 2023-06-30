@@ -1,0 +1,70 @@
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                        AUTOMATION TESTING
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                       Automation testing is a software testing approach that involves using automated tools and 
+                                                    scripts to execute test cases and compare the actual system behavior with the expected results.
+
+
+ <----------------------- *STLC - Software Testing Life Cycle* ----------------------->
+
+    - Test Planing
+    - Test Design
+    - Test Excecution
+    - Test Reporting
+    - Test Closure
+
+
+<---------------------------------- *TESTING TYPES* ---------------------------------->
+
+ *Black Box Testing* -- Black box testing is a software testing technique that focuses on testing the functionality of a system without having knowledge of its internal structure, implementation details, or code. 
+
+ *White Box Testing* -- White box testing, also known as clear box testing or structural testing, is a software testing technique that involves examining and testing the internal structure, design, and implementation details of a software system.
+
+
+ Unit Testing
+----------------------
+    -->  Unit testing verifies the smallest testable components or units of the software, such as individual functions or methods. 
+
+ Intergration Testing
+----------------------
+    -->  Integration testing verifies the interaction and communication between different components or modules of the software. It ensures that the integrated units work together as expected and that data flows correctly between them.
+
+ Acceptance testing (User Acceptance testing - UAT)
+----------------------
+    -->  Acceptance testing is performed to determine whether a software system meets the acceptance criteria and satisfies the stakeholders' requirements. It is often conducted by    end-users or product owners to validate the software's functionality and usability.
+
+ Regerence Testing 
+----------------------
+    -->  Regression testing is performed to ensure that changes or fixes in the software do not introduce new defects or cause previously working functionality to fail.
+
+Performance testing
+----------------------
+    -->  Performance testing evaluates how well a system performs under specific workloads and conditions.
+
+ API Testing
+----------------------
+    -->  API testing focuses on testing the individual API endpoints, request/response handling, data validation, error handling, authentication, and other aspects of API behavior. It ensures that the API functions correctly and provides the expected results when different requests are made.
+
+Sanity testing
+----------------------
+    -->  Sanity testing focuses on critical features, high-impact areas, or key workflows to ensure their proper functioning. It is typically executed with a limited set of test cases, allowing testers to quickly assess the system's overall stability.
+
+ 
+<---------------------------------- *Testing Methodology* ---------------------------------->
+
+Waterfall Model
+----------------------
+
+    --> The Waterfall Model is a traditional software development and testing approach that follows a linear and sequential process.
+        [-- Rquirement Gathering -> Design -> Development -> Testing -> Deployment -> Maintenence --]
+
+Agile methodology
+----------------------
+
+    -->  The Agile Model is an iterative and incremental approach to software development and testing that prioritizes flexibility, collaboration, and continuous improvement. 
+         [-- Requirement Gathering -> Plan & Design -> development -> StandUp Call -> Testing -> Sprint Review with customer -> Sprint Restripective -> Repeat --]
+
+         
